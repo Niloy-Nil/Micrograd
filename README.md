@@ -63,7 +63,3 @@ To run the unit tests you will have to install [PyTorch](https://pytorch.org/), 
 ```bash
 python -m pytest
 ```
-
-### License
-
-MIT
